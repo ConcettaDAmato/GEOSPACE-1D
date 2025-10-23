@@ -49,7 +49,7 @@ dependencies {
 	compile name: 'buffer-1.1.9'
 	compile name: 'closureequation-1.1.9'
 	compile name: 'geoet-1.5.9'
-	compile name: 'netcdf-1.1.9'
+	compile name: 'netcdf-1.2.9'
 	compile name: 'numerical-1.0.2'
 	compile name: 'whetgeo1d-1.2.9'
 

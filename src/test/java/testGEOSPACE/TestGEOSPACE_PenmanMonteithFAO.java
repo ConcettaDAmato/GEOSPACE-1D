@@ -31,7 +31,7 @@ import it.geoframe.blogspot.brokergeo.solver.*;
 import it.geoframe.blogspot.brokergeo.data.*;
 import it.geoframe.blogspot.buffer.buffertowriter.*;
 import it.geoframe.blogspot.whetgeo1d.richardssolver.*;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.*;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.*;
 import it.geoframe.blogspot.geoet.inout.InputReaderMain;
 import it.geoframe.blogspot.geoet.inout.OutputWriterMain;
 import it.geoframe.blogspot.geoet.penmanmonteithfao.PenmanMonteithFAOTotalStressedSolverMain;
